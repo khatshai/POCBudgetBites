@@ -1,0 +1,22 @@
+{
+    "translations": {
+        "choose_prefer_lang": "ఇష్టపడే భాషను ఎంచుకోండి",
+        "next": "తరువాత",
+        "lang_change_info": "తర్వాత సెట్టింగ్‌లలో కూడా భాషను మార్చుకోవచ్చు.",
+        "user_type_selection": {
+            "intended_use_ques": "What is your intended use for this app?",
+            "sell": "Sell",
+            "buy": "Buy",
+            "buy_ques": "Do you sell as well on this application?",
+            "sell_ques": "Would you like to consider this app for buying?",
+            "sell_msg": "It can be changed later in the profile"
+        },
+        "yes": "yes",
+        "no": "No",
+        "seller_onBoarding_msg": "Sell anything that is about to expire at discount prices",
+        "request_accept_buyers": "Accept pick up requests from the buyers",
+        "financial_loss":"Avoid financial loss due to expiry  by clearing out the stock",   
+        "seller_type_selection":"What Kind of bussiness do you own?"
+
+    }
+}

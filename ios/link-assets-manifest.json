@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Bauhaus93Regular.ttf",
+      "sha1": "a41824fe5fb0f722461654b5d5252dba9c86ab3c"
+    },
+    {
+      "path": "assets/fonts/BAUHS93.ttf",
+      "sha1": "fb072420444dfaddeb0538fcf5608ba0e974217e"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Medium.ttf",
+      "sha1": "da662f767e6261491e20da197bd7ffbb7a7d122c"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    },
+    {
+      "path": "assets/fonts/ubuntu.bold.ttf",
+      "sha1": "a1927bc9f5124ddc4411424983e6671117af90b5"
+    },
+    {
+      "path": "assets/fonts/ubuntu.medium.ttf",
+      "sha1": "46a20b1b3f6a11095a8ac642e873867141defef5"
+    },
+    {
+      "path": "assets/fonts/ubuntu.regular.ttf",
+      "sha1": "bd34d577a86d9caaff673409fd5a196c27831220"
+    }
+  ]
+}

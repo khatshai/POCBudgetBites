@@ -1,0 +1,22 @@
+{
+    "translations": {
+        "choose_prefer_lang": "तुमची प्राधान्य दिलेली भाषा निवडा",
+        "next": "पुढे ",
+        "lang_change_info": "(प्राधान्य भाषा नंतर प्रोफाइल -> सेटिंग्जमधून बदलली जाऊ शकते)",
+        "user_type_selection": {
+            "intended_use_ques": "What is your intended use for this app?",
+            "sell": "Sell",
+            "buy": "Buy",
+            "buy_ques": "Do you sell as well on this application?",
+            "sell_ques": "Would you like to consider this app for buying?",
+            "sell_msg": "It can be changed later in the profile"
+        },
+        "yes": "yes",
+        "no": "No",
+        "seller_onBoarding_msg": "Sell anything that is about to expire at discount prices",
+        "request_accept_buyers": "Accept pick up requests from the buyers",
+        "financial_loss":"Avoid financial loss due to expiry  by clearing out the stock",   
+        "seller_type_selection":"What Kind of bussiness do you own?"
+
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "translations": {
+        "choose_prefer_lang": "Choose preferred language",
+        "next": "Next",
+        "skip":"Skip",
+        "lang_change_info": "(Preferred language can be changed later from Profile -> Settings)",
+        "user_type_selection": {
+            "intended_use_ques": "How do you want to use this app?",
+            "sell": "Sell",
+            "buy": "Buy",
+            "buy_ques": "Would you like to consider this app for selling?",
+            "buy_msg": "It can be changed later in the settings",
+            "sell_ques": "Would you like to consider this app for buying in the future?",
+            "sell_msg": "It can be changed later in the profile -> settings"
+        },
+        "yes": "yes",
+        "no": "No",
+        "seller_onBoarding_msg": "Sell or Donate anything that is about to expire at discounted prices",
+        "request_accept_buyers": "Accept or reject pick up requests from buyers",
+        "financial_loss":"Avoid financial losses by clearing out stock before the product expire",   
+        "seller_type_selection":"What Kind of bussiness do you own?",
+        "seller_types":{
+            "grocery_store" : "Grocery Store",
+            "sweets_stall": "Sweet Stall",
+            "green_grocery":"Green Grocery",
+            "food_cart": "Food Cart",
+            "food_truck":"Food Truck",
+            "household":"HouseHold",
+            "whole_seller": "Wholesellers",
+            "bakery":"Bakery"
+
+   }
+    }
+}
